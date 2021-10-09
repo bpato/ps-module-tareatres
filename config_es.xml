@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>tareatres</name>
+    <displayName><![CDATA[Modulo Tarea 4]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Crear un m&oacute;dulo en el que cada vez que se realice un pedido (con cualquier estado de pedido), le env&iacute;e al
+        comprador un email inform&aacute;ndole del total de dinero que lleva gastado en la tienda.]]></description>
+    <author><![CDATA[Brais Pato]]></author>
+    <tab><![CDATA[pricing_promotion]]></tab>
+	<confirmUninstall><![CDATA[¿Estás seguro de que quieres desinstalar el módulo?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
